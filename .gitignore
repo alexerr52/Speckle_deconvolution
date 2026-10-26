@@ -1,0 +1,6 @@
+# служебные файлы macOS и Jupyter
+.DS_Store
+.ipynb_checkpoints/
+
+# сырые данные
+*.fits
